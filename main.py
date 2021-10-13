@@ -6,7 +6,7 @@ from tkinter.ttk import *
 import sqlite3
 import tkinter as tk
 
-
+#Probando
 ########## INSUMOS - STOCK##########
 def vInsumos(): 
     insumos=tk.Toplevel()
