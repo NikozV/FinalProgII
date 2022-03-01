@@ -1,0 +1,21 @@
+Ticket Venta
+
+Datos Cliente
+
+DNI: 1234567
+Apellido: Prueba
+Nombre: Usuario
+
+----------------
+
+Insumos/Descartables: 
+Aguja 40/8 x 10
+Aguja 25/8 x 12
+Jeringa 5cc x 100
+Gasas 10x10 x 10
+                   11600.0
+
+----------------
+Subtotal              11600.0
+IVA                   2436.0
+Total                 14036.0

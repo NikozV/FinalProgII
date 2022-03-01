@@ -1,0 +1,18 @@
+Ticket Venta
+
+Datos Cliente
+
+DNI: 31188227
+Apellido: Vassallo
+Nombre: Nicolas
+
+----------------
+
+Insumos/Descartables: 
+Gasas 20x20 x 40
+                   2000.0
+
+----------------
+Subtotal              2000.0
+IVA                   420.0
+Total                 2420.0
